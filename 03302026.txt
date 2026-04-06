@@ -1,0 +1,168 @@
+We hope everyone had a great weekend, as the final four is set. For those that follow REITs, RIP to David Simon who in our estimation was the best in the business. Bid list activity was slower on a week that saw heavier new issuance and ongoing volatility, ending the week at $586mm. CMBS spreads were again biased wider given the volatility. Activity picked up in the new issue market, with six deals pricing on the week - two conduit, three SASB, and one CRE CLO. The conduit deals (one five year and one 10 year) both priced at the widest levels in nearly a year, however the SASB deals fared better, pricing in line and even slightly inside of talk for several classes. The new issue market is expected to remain active, with several deals marketing and multiple 15-Gs visible. 
+
+We start off this week as usual with office, looking at Q1 2026 data for the San Francisco office market, which continues to make progress. We then widen out and look at the latest statistics for the overall U.S. office sector. We then look at an update on the office to residential conversion market in Manhattan, where activity doubled in 2025. We finally look at a recent distressed sales comparable in the West Loop of Chicago. In the multifamily space, we look at the latest update on rents, which are showing some signs of stabilizing. In retail, we review an article on the bifurcation in the Mall sector. In the REIT space, we look at Park Hotels & Resorts, which has an extensive lodging portfolio in major markets, including some CMBS exposure. In CMBS, we should see a resolution on another Brookfield DTLA office property as it is reportedly being sold. We also look at the release in March of an appraisal for a distressed Chicago office tower, although the date is oddly older. Finally, we look at an updated appraisal that was released for a San Francisco hotel portfolio that had been modified back in November.  
+
+Joel 
+
+Brownstone - Weekly Recap of CMBS Activity 
+
+Bid list activity slowed amid heavier new issuance and increased volatility, with $586mm on the week. CMBS spreads again saw minor widening on the week. BIG was very active in SASB and traded some conduit as well. We retain axes across most CMBS segments, with particular axes for higher yielding SASB or dented front pays, lower loan count deals, as well as interest only classes (both conduit and agency). We also have axes for newer issue conduit BBB/A classes, both five and 10 years, as well as newer vintage CRE CLO credit.  
+
+
+
+ISSUANCE:                                            
+The new issue market was active on the week, with six deals pricing and another close to pricing. The six deals included two conduit, three SASB, and one CRE CLO deal. The conduit deals priced at the widest levels in nearly a year, however the SASB deals held in better, pricing largely in line with talk, with several classes tightening from IPT. There are several deals marketing and multiple 15-Gs visible, implying the new issue market should remain active. 
+
+PERTINENT CRE NEWS: 
+
+OFFICE: 
+San Francisco office vacancy fell again in the first quarter as AI firms drive record demand (San Francisco Business Times): https://www.bizjournals.com/sanfrancisco/news/2026/03/25/q1-office-market-cbre-net-absorption-vacancy.html?cx_testId=40&cx_testVariant=cx_41&cx_artPos=3#cxrecs_s the positive momentum in the San Francisco office market continued in Q1 2026:  
+* Per CBRE, the vacancy rate for San Francisco office fell another 200bps in Q1, with demand reaching all-time highs 
+* Granted, while vacancies continued to decline, they are still elevated with the latest rate at 30.8% 
+* Availabilities fell an even higher 250bps, ending Q1 2026 at 33.3%
+* Q1 saw the highest quarterly net absorption figure since CBRE began tracking the number, at 1.8mm sf 
+* Per CBRE, leasing is largely being driven by A.I. companies, however tenant demand is spilling over into other sectors 
+* Tenant requirements in the market increased to 8.2mm sf in Q1, an all-time high 
+* It is encouraging to see the pipeline grow despite the healthy leasing activity
+* Demand is largely being fueled by tenants with requirements of 100,000-sf or more, of which there are 28 currently
+* As we've seen in other markets, getting large blocks of space in the top buildings is becoming difficult, with the vacancy rate for the top office buildings (around 5.2mm sf) at only 12.3% (CBRE considers 10% to 12% to be a healthy vacancy rate)   
+* The article notes that much of that vacancy for the top buildings is focused in One Market Plaza (OMPT 2017-1MKT), where vacancies are still around 30% after Google vacated 320,000-sf last year  
+* This consistent demand could potentially lead to new supply, as there hasn't been a major office development delivered in San Francisco for several years 
+The leasing momentum in San Francisco is encouraging, as is the record high for requirements in the market. That has led to a 200bps decline in vacancies in Q1, although the vacancy rate still hasn't broken below 30.0%. As with most markets, the vacancy rate for the highest quality buildings is significantly lower, at only 12.3%.
+
+Office Vacancy Rate Sees First Significant Decline in Years (Globest): https://www.globest.com/2026/03/27/office-vacancy-rate-sees-first-significant-decline-in-years/?kw=Office%20Vacancy%20Rate%20Sees%20First%20Significant%20Decline%20in%20Years&utm_source=email&utm_medium=enl&utm_campaign=newsroomupdate&utm_content=20260327&utm_term=rem&user_id=ef05666df4f7969cfd3243fe6d1335285dbe89e48b603cecb96f6cc2ef07f55b
+* While uneven, Yardi's CommercialCafe noted a 200bps decline in national office vacancies YOY, to 17.6% as of 2/2026
+* As with San Francisco, the decline in vacancies is positive, however the overall rate is still elevated 
+* Tech heavy markets like Seattle, Austin and San Francisco continue to have the highest vacancy rates in the nation, with all over 24% 
+* Other markets retaining vacancy rates near or above 20% include Detroit, the broader Bay Area, San Diego, Dallas, Portland, Denver, and D.C. 
+* On the plus side, outperformers include some coastal/Sunbelt markets, with Miami having the lowest vacancy rate at 12.8%, with Manhattan and Tampa Bay close behind 
+* Boston and L.A. are in the mid-14% range, with the Twin Cities, Phoenix and Charlotte between 16.8% and 17.8% 
+* Yardi attributes the improvement to the sharp decline in new office starts, as well as an increase in demolitions or conversions to residential or mixed use 
+* As of February 2026, only 28mm sf of space was under construction nationwide, which is low on a historical basis 
+* New construction is elevated in several metros though, including Boston which leads the nation at 3.9mm sf 
+* Rounding out the top five in terms of construction in process are Manhattan, Dallas, L.A. and San Diego  
+* Despite lower vacancies, average office listing rates were still down 2% YOY, highlighting some continued weakness 
+* The priciest markets in terms of rents were Manhattan, San Francisco, Miami and the Bay Area
+The fact we are finally seeing a decline in national office vacancy rates is good news, however it is still elevated on a historical basis. The relatively low construction pipeline in the context of increasing conversions/demolitions should also be a near term positive for the sector, although tepid job growth and AI related risks persist.   
+  
+Manhattan Office Conversions to Double After Record Year (Globest): 
+https://www.globest.com/2026/03/20/manhattan-office-conversions-to-double-after-record-year/ this story provides an update on office-to-residential conversions in the NYC metro: 
+* Per Cushman & Wakefield, there were around 5mm sf of office-to-residential conversions in Manhattan in 2025, which is the highest annual total in 20 years 
+* Despite the elevated number, it pales in comparison to the pipeline which has increased to 9.8mm sf 
+* This figure includes nine new projects totaling 2mm sf 
+* While earlier conversions were more focused in the Downtown submarket, Midtown now has the highest share of proposed conversions, at 51.6% (from 23.4% pre-pandemic) 
+* Downtown is now second, at 38.7% of proposed conversions 
+* The article cautions that these figures can change, as two sites previously marked for conversion to multifamily appear to be evolving  
+* These are 625 Madison Avenue (COMM 2014-CR14 and CR15) and 623 Fifth Avenue, which are now likely shifting to office redevelopment given increasing demand in the submarket 
+* Interestingly, class A properties now make up 51.6% of proposed conversions, from only an average of 5.5% between 2004 and 2019
+* The article reviews several conversions that are in progress, including 5 Times Square as well as the old Pfizer HQ at 219 and 234 East 42nd Street, the former of which could include as many as 1,200 multifamily units
+It is interesting to see conversion activity move towards Midtown Manhattan after some policy changes, as it has previously been more focused downtown. Conversions are also shifting from more of a B/C quality phenomenon, to now over half of the activity being in class A properties. However, we are starting to see some cases where the numbers for office use are actually more attractive than for residential, in select buildings / improving submarkets.  
+ 
+Glenstar, Halloran eye $100M-plus Loop office tower purchase (Real Deal): https://blinks.bloomberg.com/news/stories/TCF33LC6YGW1 we highlight this as another office sales comparable in Chicago:  
+* Glenstar, which is based in Chicago, and Patrick Halloran are under an agreement of sale to acquire 500 West Monroe Street (not securitized) for just over $100mm ($104/sf at $100mm) 
+* 500 West Monroe is a 46-story, class A office tower with around 966,000-sf of GLA in the West Loop submarket of Chicago 
+* The expected sales price compares to a reported $270mm loan associated with the property 
+* The owner, Spear Street Capital, acquired the tower in 10/2019 for $412mm 
+* At a price of $100mm, that would represent an over 75% decline in value since the prior sale
+* The loan defaulted at maturity, with the buyer likely to acquire the debt and then take title to the property via deed-in-lieu 
+* The buyers have been actively acquiring distressed office properties in the region, typically at significant discounts which provides room for them to put in capital for leasing/upgrades  
+* Prior acquisitions in the area include Presidents Plaza near O'Hare ($62.1mm or $76.80/sf), and 200 South Wacker Drive ($68.0mm or $89/sf) where it plans to invest $30mm to revamp the building/add amenity space 
+* The article reports the occupancy rate for 500 West Monroe at 75% at the time of marketing, however external sources show just over half of the GLA as available    
+This is a potential sales comparable for the West Loop submarket in Chicago. 
+
+MULTIFAMILY: 
+Rents Show Early Signs of Recovery as Market Stabilizes (Globest): https://www.globest.com/2026/03/25/rents-show-early-signs-of-recovery-as-market-stabilizes/?kw=Rents%20Show%20Early%20Signs%20of%20Recovery%20as%20Market%20Stabilizes&utm_position=1&utm_source=email&utm_medium=enl&utm_campaign=multifamilyalert&utm_content=20260325&utm_term=rem&user_id=ef05666df4f7969cfd3243fe6d1335285dbe89e48b603cecb96f6cc2ef07f55b
+* Per its March national rent index, Zumper notes that U.S. multifamily rents are seeing some signs of stabilizing, following almost a year of downward pressure
+* Rent declines are decelerating, with one BR and two BR rents down 1.4% and 1.3%, respectively, representing the third consecutive month of decelerating drops 
+* After a long period of soft rent growth, more normal seasonal patterns are starting to re-emerge 
+* While rents are still trending lower, there are signs of improving spring demand that could push pricing higher as we enter the peak leasing season 
+* Median asking rents ticked up in March, up 0.1% and 0.2%, respectively, for one and two BR units - the first monthly gains for both unit types since 5/2025 
+* As we've noted before, San Francisco is seeing significant strength in the high end market, with one BR rents increasing 18.4% to an all-time high, ahead of the prior peak back in 6/2019 
+* Two BR units in San Francisco were up an even greater 22.6%, surpassing the 9/2025 peak 
+* Demand in San Francisco is being driven by tech/AI and the RTO push, with occupancy nearing 97% 
+* On the other end, many Florida markets remain soft amid slowing in-migration and heavy supply additions  
+* Tampa saw the largest drop with one-BR rents off 12%, with other notable decliners including Miami (-3.9%) and Orlando (-3.3%)   
+* Other markets seeing higher increases include Boston, Honolulu and Syracuse, while New Haven, CT, New Orleans, Cleveland, and Glendale, AZ, saw the largest drops  
+While overall multifamily rents are still lower, the decline continues to decelerate (less bad), with some positive signs that normal seasonal patterns are returning.  
+
+RETAIL/MALLS:
+Class A malls defy retail gloom with luxury-fueled comeback (Real Deal): https://blinks.bloomberg.com/news/stories/TCD9EUC6YGW0 while the death of the mall was greatly exaggerated, the sector has largely become bifurcated:  
+* Class A malls, which tend to be the dominant mall in their markets and in areas with stronger demographics/incomes, continue to see healthy occupancies and rental rate growth 
+* An example cited is the Roosevelt Field mall on Long Island, which is owned by Simon Property Group, and has in line sales of around $1,250/sf 
+* A decade ago, there were over 1,200 malls in the United States, however that number has fallen to around 900 today (I've seen lower numbers other places) 
+* Of those 900, the top 100 malls represent around half of the entire sector's value 
+* In contrast, the bottom 350 malls represent only 10% of the sector's value
+* Revenues at top tier malls are running 5% higher annually, while lower tier malls are seeing a similar decline (meaning -5%)
+* This is once again the K shaped recovery, with money going to the higher quality assets, while others remain challenged 
+* The top mall operators, including Simon and Brookfield, continue to move away from the anchor driven model, emphasizing more luxury tenants, dining options, and experiential tenants  
+* Brookfield's portfolio is around 95% occupied with tenant sales up 20% since 2019, with some trophy assets much higher
+* The financing markets have warmed to the story, with CMBS issuance for malls doubling to $8bn in 2025  
+* That being said, weaker malls have continued to struggle with about 40 malls closing annually, with 11% of malls tied to regional loans DQ per Trepp 
+* Interestingly, the younger generation is returning to malls, as it enjoys the in-person experience
+The death of the mall narrative was never fully grounded in reality, at least as it pertains to the higher quality malls. Higher quality operators/REITs got ahead of the trends in some properties, converting vacant anchor boxes to mixed uses including apartments, which can further benefit the mall component. While distress is likely to persist with lower quality assets, we have started seeing CMBS financings bleed over into what are likely considered B malls today.  
+
+REIT REPORT: 
+This week we look at the lodging sector via a REIT with a large portfolio in major markets and/or resort and convention markets across the U.S., Park Hotels & Resorts: 
+
+Park Hotels & Resorts (ticker: PK): Park Hotels & Resorts Inc is a REIT which was spun off from Hilton Worldwide in 2017. It has a portfolio of 34 premium branded hotels with over 23,000-rooms, located in prime U.S. markets with high barriers to entry. Over 90% of the REITs portfolio is luxury or upper upscale properties, with 80% located in CBDs of major cities or resort or conference destinations. As such, they offer good insight into some of their markets, as well as having some CMBS exposure. 
+* Park saw Q4 RevPAR up 0.8% on a YOY basis, but for FY 2025, RevPAR was down 2.0% 
+* Core RevPAR was up 3.2% in Q4, however was still down 1.3% for FY 2025  
+* Park intends to sell/divest its non-core assets as soon as commercially reasonable, as it wants to concentrate its focus on what it considers to be its 21 core hotels 
+* Group performance was strong in Q4, supported by convention demand in Hawaii and New York, as well as solid group activity in Orlando 
+* Hilton Hawaiian Village Waikiki Beach Resort (HILT 2016-HHV, CD 2017-CD3 and CD4, CFCRE 2016-C7, JPMCC 2016-JP4, JPMCC 2017-JP5, JPMDB 2017-C5, MSBAM 2016-C32, and WFCM 2016-C37) was one of its strongest performers, with Q4 RevPAR up 22% YOY, albeit comping to a very soft Q4 2024 
+* PK has nearly completed the $75mm, multi-year guestroom renovation at the Rainbow Tower at HHV, as well as a renovation at its Waikoloa Village 
+* The REIT will be launching a full-scale renovation at the Ali-I Tower at HHV impacting all 348 guestrooms, the tower lobby, the pool, and adding three additional keys - the total investment is expected to be $96mm
+* Once this renovation is complete, around 80% of the rooms in Hilton Hawaiian Village will have been newly renovated 
+* PK provided its plans to pay off the HHV CMBS loan - it plans to use some of the proceeds from a delayed draw term loan, as well as a planned financing on another asset (Bonnet Creek - not securitized) to fully repay the CMBS financing maturing in early November 
+* PK expects a multi-year recovery towards prior peak levels in Hawaii, with early signs of the recovery beginning 
+* The New York market, where it owns the New York Hilton Midtown, was also a strong performer with its highest Q4 group revenue in its history 
+* Miami, where it owns the Royal Palm South Beach, remains one of the strongest hotel markets in the country, and PK is excited about the long-term outlook for this hotel that is closed for a complete renovation 
+* PK sees some positives in 2026, including a relatively firm U.S. economy (this was pre-war), ongoing fiscal stimulus, a hopeful easing of inflation (again, pre-war), as well as a number of major events like the World Cup and America 250 celebrations 
+* Additionally, supply growth remains at historical lows with construction muted, which should support healthy operating fundamentals over the next few years 
+* That being said, concerns they noted include geopolitical and macroeconomic volatility creating uncertainty around booking decisions, as well as reduced international demand (particularly from Canada) 
+* PK provided RevPAR guidance for 2026 of flat to up 2%, with expenses expected to be up low-single digits for the year
+* The 2% to 3% growth in operating expenses is primarily driven by labor, which could be up 4% to 5% for the year 
+* 2025 was a good year for insurance, with no major claims - so they aren't expecting an increase in premiums 
+* The forecast includes low single digit growth at both Hawaiian hotels, driven by improving leisure transient demand post renovations
+* Japanese visitation, which has traditionally been a significant driver for Hawaii, was relatively flat in 2025 
+* PK does see some green shoots from Japan, expecting mid-single-digit growth in terms of visitation to around 750,000 visitors for 2026
+* Forecasts suggest another 5% to 6% growth in Japanese visits for 2027 
+* In terms of its dispositions, PK hasn't seen any issues for buyers in relation to credit, with significant availabilities of debt capital as well as private credit
+* There is also significant availability of equity capital
+* Buyers of its more non-core hotels have included family offices and owner-operators, including deep value entrepreneurs
+* Some markets have been tougher than others for sales, including Chicago and Los Angeles, while San Francisco has been improving   
+* PK referenced the K shaped recovery we continue to hear about, with the consumer remaining cautious
+* Although not discussed on the call, PK sold the Hilton San Francisco Union Square and Parc 55 San Francisco (HILT 2016-SFP) in November 2025 for a combined $408mm (we'll briefly touch on news on the property under CMBS)   
+Park spent some time discussing the Hawaii lodging market, and noted that while tourism from Japan remains lower/was relatively flat in 2025, there are signs it should improve in 2026 and 2027. The REIT remains bullish on the longer term outlook for Hawaii, and outlined its plans to pay off the HHV loan by its November 2026 maturity date. 
+ 
+CMBS NOTES: 
+Bank of America Plaza (GSMS 2014-GC26, CGCMT 2014-GC25, WFRBS 2014-C22 and C23): Capital Group Buying L.A. Office Tower for Around $210M: Sources (CO): https://commercialobserver.com/2026/03/capital-group-brookfield-la-office-tower-bank-of-america-plaza-333-hope/ it appears that this securitized property is being sold: 
+* The Bank of America Plaza is reportedly being acquired by Capital Group for an estimated price of $210mm (based on expectations of $150/sf) 
+* Capital Group is the largest tenant at the property, with the last servicer reports noting it leases 349,397-sf under a LTL to 2/28/33
+* The company plans to eventually consolidate 2,100 employees into the 55-story office tower in DTLA 
+* If the $210mm price proves accurate, that would be close to the 1/8/2025 appraised value of $212.5mm, however it is still 65.3% below the issuance valuation 
+* The sponsor, Brookfield, has or is in the process of liquidating most of its DTLA holdings, with the Gas Company Tower selling for around $145/sf, and the EY Plaza (BFLD 2020-EYP) having formerly been under an agreement of sale at about $139/sf, however that sale fell through 
+* The latest reported occupancy as of 9/30/2025 had been 67.0% 
+It appears we could be seeing another of the DTLA office properties resolve, with the expected price slightly higher than the prior sale.  
+
+Illinois Center (GSMS 2015-GC34, CGCMT 2015-GC33 and GC35): this news hit last week, but is worth mentioning:  
+* The Illinois Center loan was transferred to the special servicer on 4/25/2025 due to ongoing delinquencies 
+* The loan is secured by two adjoining class A office towers with an aggregate 2.091mm sf of GLA 
+* The towers, which are in the East Loop submarket, where built in the early 70s 
+* The most recent metrics remain weak with occupancy at only 49% as of 9/30/2025 
+* Oddly, the March remittance report finally posted an updated appraised value of $85.7mm ($41/sf), however the appraisal was dated 6/19/2024
+* Based off this updated appraisal, the ARA on the remit was increased in March 
+* The loan had previously been deemed non-recoverable, so there wouldn't have been advances anyway 
+* This was the first updated valuation that was released, with the value down 78.0% from issuance   
+* A receiver (Trigild) has been appointed, with the special dual tracking the workout 
+There are clearly some oddities with the reporting, however the March remit did finally note the release of an "updated" appraisal, although it was dated 6/19/2024. The ARA was adjusted on 3/6/2026 based on the new appraisal, however the loan had been deemed non-recoverable. Regardless, that finally provides an updated value for this distressed, high vacancy office tower.  
+
+Hilton San Francisco Union Square and Parc 55 San Francisco (HILT 2016-SFP): we had reported on the sale/assumption/modification back in January, however this month saw the release of an updated appraisal post modification:
+* The March remittance data finally provided an updated appraisal for the Hilton San Francisco Hotel Portfolio, with a valuation of $489mm as of 11/7/2024
+* As a reminder, the Portfolio was sold with the loan modified in 11/2025, which included the loan being bifurcated into A and B notes, an extension to 11/2028 with two additional 12M options, a reduction in the interest rate, as well as required equity contributions among other conditions 
+* The A note was cut roughly in line with the acquisition price, at $407.9mm 
+* The A note was cut 16.6% below the recent appraisal, however the market/sales price is the true arbiter of value
+* We hadn't checked in on the deal since the modification was announced, however it looks like the loan remains non-recoverable  
+* Given the recentness of the modification, there haven't been any financials released, however the San Francisco lodging market has been improving
+* In addition to February's Super Bowl, the region is also hosting six FIFA World Cup matches, and also benefits from a pick up in office activity  
+

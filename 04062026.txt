@@ -1,0 +1,179 @@
+We hope everyone had a great long weekend, as we inch ever closer to spring. Bid list activity was slow on the holiday shortened week, ending the week at only $228mm. CMBS spreads were flat to slightly tighter on the week. The new issue market was also slower on the week, with only two deals pricing. Both deals were SASB, including a Canadian deal backed by triple net leased industrial properties. This pause is likely to prove temporary as there are several deals marketing and five 15-Gs visible. 
+
+We start off this week as usual with office, looking at Q1 2026 leasing activity for New York City. We then look at an update on office to residential conversion activity on a national basis. We then turn to D.C., looking at a report on trophy rents, which posted strong gains for the second consecutive year. We also look at an office sales comp in the West End submarket, as well as an update on office space utilization for federal agencies, which clearly suggests further room for dispositions / consolidations. In the retail space, we look at an update on CVS, with the pharmacy chain expected to grow its store count for the first time in four years. With Q1 2026 REIT reporting approaching, we start to round out 2025 with a couple more office REITs - one more Sunbelt focused, and another NYC focused. In the CMBS space, we look at an update on a lawsuit over a multifamily SASB portfolio in New York City. We also look at a recent ratings action for a portfolio of suburban office properties also in SASB. We then look at an announced vacate in a San Francisco office property. Finally, we look at an updated appraisal at a distressed California mall in conduit.  
+ 
+
+Joel 
+
+Brownstone - Weekly Recap of CMBS Activity 
+
+Bid list activity slowed for the holiday shortened week, with less than $230mm out for bid. CMBS spreads were flat to slightly tighter on the week overall. BIG was relatively active, trading numerous SASB and conduit bonds. We retain axes across most CMBS segments, with particular axes for higher yielding SASB or dented front pays, lower loan count deals, as well as interest only classes (both conduit and agency). We also have axes for newer issue conduit BBB/A classes, both five and 10 years, as well as newer vintage CRE CLO credit.  
+
+
+
+ISSUANCE:                                            
+The new issue market was slower on the holiday shortened week, with two deals pricing. Both of the deals were SASB, although one was secured by industrial properties in Canada. Talk across the two deals was limited, with the majority of the Canadian deal pre-placed. Interestingly, a deal secured by two non-trophy malls (GGP 2026-2PAC), was pulled. While no official explanation was provided, guidance had steadily widened from IPT before being pulled. This was set to be another test for non-trophy malls. There are several deals marketing and five 15-Gs visible, implying the new issue market should pick back up near term. 
+
+PERTINENT CRE NEWS: 
+
+OFFICE: 
+Manhattan Office Leasing Starts 2026 Strongly Amid Shrinking Class A Inventory (CO): 
+https://commercialobserver.com/2026/04/manhattan-office-leasing-2026-class-a/ per Avison & Young (A&Y), Q1 2026 office leasing activity in Manhattan remained healthy:
+* Per A&Y, over 10.4mm sf of office leases were signed in Q1 2026, led by mid-sized leases between 10,000 and 50,000-sf 
+* Colliers pegged the leasing volume at a slightly higher 11.78mm sf, which was the strongest Q1 in six years, and down less than 1% sequentially from what is typically the strongest leasing quarter (Q4) 
+* A&Y noted that while Q1 activity was fairly similar YOY, it was 41% higher than the average quarterly volume from 2020 to 2024
+* Leasing activity has been focused in high quality space, with an ever shrinking amount of high quality space starting to force tenants into that next tier of space - remaining class A and select class B 
+* The leasing activity took Manhattan's availability rate down to 14.6% in Q1, a 270bps decline YOY per A&Y
+* Colliers puts the availability rate at 13.7%, which while positive, is still above the 10% rate that its calls the market equilibrium 
+* Renewals fell to only around 20% of activity per A&Y, versus around 50% in 2023
+* That means the remaining 80% were new and/or expansion leases, led primarily by finance, insurance, and real estate firms
+* The two largest leases touched on securitized properties, with Bank of America taking an additional 600,000-sf at One Bryant Park (OBP 2019-OBP), and Gibson, Dunn & Crutcher renewing 362,000-sf at 200 Park Avenue (IRV 2025-200P) 
+* The average asking rents across Manhattan ranged from $77.55 to $91.52/sf in Q1 
+* The average asking rents for class A product hit its highest level since 7/2020, while class B asking rents increased 1.9% to a record high per Colliers 
+* Sublease availabilities today are actually lower than in 3/2020, which is clearly a positive sign 
+Despite concerns over the slowing economy/labor market and from the growth in AI, Manhattan leasing activity remains strong. The dwindling amount of availabilities of high quality space has led to an increase in asking rents. 
+
+Office-To-Residential Conversions Up 28% From Last Year's Record Levels (Bisnow): https://www.bisnow.com/national/news/adaptive-reuse/office-resi-conversions-up-28-percent-from-last-year-record-levels-133841 last week we looked at the latest data on conversions in NYC. This story looks at the national data: 
+* There are 90,300 apartment units in the process of being converted from office properties to start 2026, which is up 28% from the same PY period and nearly a fourfold increase from 2022 
+* Office conversions represent 47% of all future adaptive re-use projects, per RentCafe 
+* Yardi Matrix believes a spike in loan maturities in 2026 - at almost one third of all office loans - is one of the driving factors behind the growth 
+* Yardi believes the pandemic is to office what e-commerce was to retail, driving owners to consider alternative uses in some cases 
+* New York City remains the biggest driver with 16,358 units in the works, followed by Washington, D.C. (8,479 units), Chicago and Los Angeles (each with around 4,300 units) 
+* Conversions in each of the top markets are aided by local incentives, particularly for office to residential conversions
+* Chicago provides tax increment financing, while Los Angeles has adjusted land use regulations and D.C. has provided tax abatements 
+Conversion activity, particularly from office to residential, is set to increase in 2026, led by major markets including NYC and D.C. Interestingly, for certain office markets where availabilities are getting tighter, it is starting to make more sense to keep the property as office.   
+
+Trophy Office Rents Jump 9% In D.C. For The Second Year In A Row (Bisnow): https://www.bisnow.com/washington-dc/news/office/trophy-rents-spike-9-percent-second-straight-year-133957 this is another market where the flight to quality remains in full effect:  
+* In D.C., trophy office rents rose 9.3% for the TTM ended 3/31/2025, following a similar 9.1% increase the prior year 
+* CBRE classifies 14M sf of office in D.C. as trophy space, with rents there now averaging $105/sf, up from $96/sf last year
+* In contrast, class A rents fell 2% YOY to just under $60/sf, while class A+ rents rose about 2.2% 
+* The vacancy rate for trophy office properties is only 10.6%, compared with 22.6% for the overall market
+* Tenants, highlighted by law firms, are battling for a declining amount of trophy space, with almost no new supply in the pipeline 
+* The REIT BXP has two 300K SF office buildings planned, however they are 81% preleased to law firms
+* Demand from law firms remains healthy heading into Q2, with at least a dozen law firms looking for 25K sf or more per Savills
+* Record levels on trophy rents are spilling over into class A+ buildings, which are higher-quality or recently renovated buildings
+We've been hearing about similar trends in many markets, where despite still elevated overall vacancy rates, the top cohort of trophy assets has much more limited availabilities. Absent new construction which remains difficult to pencil out, this demand should gradually spill over to the next tier of properties.    
+
+Eagle Cliff Real Estate Partners acquires West End office building for $101 million (Washington Business Journal): 
+https://www.bizjournals.com/washington/news/2026/03/30/eagle-cliff-west-end-office-beacon-capital.html this is another office sales comparable in D.C.: 
+* 2445 M Street NW, also known as One Westin Center, sold for $101mm ($337/sf) on 3/26/2026
+* That is about in line with the prior sale in 6/2018, but down from the $181.4mm price in 12/2008
+* The property had been securitized in legacy (LBUBS 2007-C2), but had paid off in full - the 11/2006 appraisal for that loan was at $227mm 
+* The class B office tower in the West End submarket of D.C. was 91.3% leased at the time of sale, however external sources show availabilities around 21.6% 
+This is another sales comparable in D.C., this time in the West End submarket. Given where occupancy is, this should be representative of a stabilized property.  
+
+Federal Agencies Use Less Than 60% Of Their Space At Nearly 10,000 Sites, New Data Shows (Bisnow): https://www.bisnow.com/national/news/office/new-data-shows-nearly-10000-government-spaces-fall-below-60-utilization-133935?utm_source=outbound_pub_2&utm_campaign=outbound_issue_93320&utm_content=outbound_link_1&utm_medium=email 
+* Data was released this week on the federal government's utilization rates for its massive office footprint, based on measurements for the period between 1/12/2026 and 3/6/2026
+* The data showed that 9,766 government spaces (office and other properties) had GSA utilization rates below 60% 
+* The USE IT Act, which was signed into law under Biden, directs the GSA and government agencies to work together to reduce the agency's space when the 60% utilization threshold is breached 
+* Per the subcommittee overseeing the GSA, not one agency reached that 60% benchmark
+* A 3/2024 report had found federal agencies were only using 12% of the space in their HQ buildings on average, while a 7/2023 GAO report found the majority of agencies were using 25% or less of their HQ buildings 
+* The Departments of Housing and Urban Development, Agriculture, and Energy are all moving out of their D.C. HQ buildings, while the FBI is also slated to move from its Pennsylvania Avenue location 
+* The GSA is considering several opportunities to collocate agencies 
+* The GSA recently sold the nearly 1M sf office building that had housed the National Capital Region employees, and has dozens of other properties slated for disposition 
+* That 940,000-sf building was sold to housing developer Dalian Development for only $24mm ($25.53/sf) STORY: https://www.wsj.com/real-estate/commercial/feds-sell-sprawling-washington-d-c-building-in-latest-push-to-shed-property-ff71bb0f?gaa_at=eafs&gaa_n=AWEtsqeo6PLx-37zDc18mW9M1cLbnLWeuOlAFW9xCLwYeDYfrU9sDIZgjHVu&gaa_ts=69ceb784&gaa_sig=rgIwvk14151fuyrL_PvhSOBuZ3xNavU_jkkcXusb6amLVv0UDTgC3QjWX5zVeqKjsxfG2hTlGeIXKDEwOLrgNA%3D%3D
+* Utilization rates for some of the largest agencies include 23.8% for the Dept of Justice (42.6M sf), 31.4% for the Dept of Treasury (25M sf), 22.8% for the Social Security Administration (22.4M sf), and 26.2% for the Dept of Agriculture (19.1M sf) - those figures are for owned and leased spaces 
+This data suggests we will see the federal government shed even more space, given still poor utilization rates. The federal government generally doesn't lease trophy type space, so additional vacates / consolidation is likely to put more pressure on the class B / more commodity office segments.   
+
+RETAIL:
+CVS To Increase Retail Footprint After 4 Years of Shrinking Its Store Count (Bisnow): https://www.bisnow.com/national/news/retail/cvs-increase-retail-footprint-after-four-years-shrinking-store-count-133918 pharmacies had long been a stable performing staple of conduit deals, however that has changed over the past few years as most chains have been shedding stores:  
+* After years of contracting store count, CVS Health Corp is expected to open 60 new stores this year, compared with closing only a few dozen
+* The openings will include 20 pharmacy-only stores, which are only around 3k sf  
+* From 2022 to 2025, CVS closed over 1,100 stores as health insurers slashed reimbursement rates and consumer preferences changed 
+* Over that same period, it opened less than 200 stores, bringing its store count to around 9,000 locations at YE 2025 
+* CVS believes that between renegotiating contracts with insurers, and optimizing its footprint, the profitability of its pharmacies could improve by almost 1% per year, compared to prior estimates of 5% declines 
+* The smaller pharmacy only stores would offer a limited selection of over-the-counter products and allow customers to speak directly with pharmacists 
+* Competitors to CVS have also been shedding stores, with Rite Aid closing its remaining stores last year after its 10/2023 bankruptcy
+* Walgreens announced plans in 2024 to close 1,200 stores over the subsequent three years, however per Bloomberg has decreased its planned closings to less than 100 this year, after having been taken private in 2025   
+Pharmacies had been fairly commonplace in conduit deals, and given their generally long term leases (although they do tend to have regular termination options), they were perceived as safer. That changed over the past few years with all major chains shedding store count. We've seen an increase in the number of pharmacy loans struggling to refinance in conduit given termination options. This story suggests at least one major chain may finally be getting comfortable with its current footprint. 
+
+REIT REPORT: 
+With Q1 2026 reporting for REITs starting in about 10 days, we begin rounding out 2025 with a couple more office REITs - one more Sunbelt focused in Piedmont Office Realty Trust, and one NYC centric in Empire State Realty Trust: 
+
+Piedmont Office Realty Trust (ticker: PDM): Piedmont is a REIT specializing in the acquisition, development and management of high-quality class A office properties. Piedmont focuses on major Sunbelt markets, with a portfolio of over 16mm sf. Its markets include Atlanta, Dallas, Orlando, NoVA and D.C. As such, it offers good insight the sector as well as select Sunbelt markets: 
+* Piedmont believes momentum in the national office market shifted in the latter part of 2025, potentially suggesting we've seen peak vacancies for the cycle 
+* 55% of Fortune 100 companies now require five days in office, compared to only 5% only two years ago, driving demand for high quality office space 
+* C&W noted 50 U.S. markets as seeing positive absorption for 2025, versus only 33 in 2024 and the highest number since 2019
+* Sublease availabilities are down from the peak in early 2024, and with only 4mm sf of new office space delivered in Q4 (the lowest since 2012), fundamentals have a much more positive setup into 2026 
+* CBRE noted 2025 as the first year that inventory removals (demos or conversions) outpaced new completions since they've been tracking the data 
+* While net absorption is well below the 30 year average, the steep decline in new supply allowed for the vacancy decline in over five years 
+* As with several other office REITs, PDM noted 2025 as a record year for leasing volume, at 2.5mm sf 
+* Rental rates continued their upward trajectory, up 12% and 21% on a cash and accrual basis in Q4
+* 69% of Q4 leasing activity was related to new tenants (versus renewals)
+* Leasing is being driven by large users, with 10 full-floor transactions in Q4 and six more executed or being negotiated
+* The weighted average lease term for new deals was good at around nine years
+* PDM is seeing a 35% increase when going from sublease rents to direct rents     
+* PDM still sees asking rents across its portfolio as 25% to 40% below the rates required for new construction, implying further upside in rents 
+* Occupancy was up 120bps in 2025, ending the year at 89.6%
+* Leasing is being driven by tenants in financial services, insurance, accounting and law firms  
+* PDM has not historically been in markets relying on tech activity, so it hasn't been impacted by the softness in tech expansion/growth
+* Expansions exceeded contractions for the sixth consecutive quarter, with the retention rate for tenants at 63% 
+* Atlanta and Dallas were noted as stronger performers across their portfolio
+* PDM noted that its building in Boston has been slower
+* The District in D.C. remains challenging, however it is seeing some green shoots in Northern Virginia 
+* It put a D.C. building on the market in 2025, however has opted to retain the building near term following weak reception 
+* PDM expects to complete leases with the City of New York at 60 Broad (not securitized), however it still needs to pass a city review/public hearing - this building is in the Financial District 
+* PDM projects positive absorption for 2026 with year-end occupancy around 90% and SS NOI up mid-single digits  
+Piedmont, which is a more Sunbelt focused office REIT, reported similar conditions to most of its peers. That includes record or near record leasing activity, as increasing demand coupled with shrinking availabilities for higher quality spaces has led to a much more favorable climate. Low levels of new supply and a net reduction in total office space due to conversions are also positives, and with construction costs only trending higher, a significant pick up in office construction isn't likely near term.  
+ 
+Empire State Realty Trust (ticker: ESRT): Empire State is a REIT that owns, manages, and operates a premier portfolio of office, retail and multifamily properties in Manhattan and the greater NYC MSA. Empire's portfolio includes over 9mm sf of GLA across the aforementioned property types. For office, ESRT tends to be in a tier just below trophy, and as such offers some insight into that segment: 
+* After another strong year with over 1mm sf leased, ESRT reported its fourth consecutive year of occupancy growth in NYC 
+* Occupancy increased 170bps YOY to 90.3% in 2025, with its office properties at 93.5% leased
+* The office market remains bifurcated between the have and have nots, with demand concentrated in top-quality, modernized, amenitized, transit oriented buildings backed by financially stable landlords 
+* ESRT disposed of its last non-NYC office property in 2025, selling Metro Center in Stamford
+* Metro Center, near the train station in Stamford, sold for $64.0mm ($226/sf) or around a 7% cap rate based on NOI
+* Per external sources, the building was 75.0% leased at the time of sale   
+* With its office portfolio 93.5% leased and no new supply at its price point, ESRT sees an upward trajectory in net effective rents 
+* Q4 was its 18th consecutive quarter of positive leasing spreads, with rents up 6.4%
+* Average lease duration for new leases executed in Q4 was 11.6 years 
+* New York City's office leasing market is the strongest they've seen since 2019, with diverse tenant demand from industries including finance, professional services, TAMI and consumer products 
+* For its multifamily portfolio, occupancy was just under 98% with rents up 10% for the full year
+* As its name suggest, ESRT owns the Empire State building, where revenue per capita increased YOY despite a decline in visitation from cross-ocean international tourists 
+* ESRT acquired 130 Mercer (the Scholastic Building, not securitized) for $386mm - this is prime SoHo product at an initial yield of mid-5%, however with occupancy at only 70%, it expects to increase the yield towards 8% via leasing 
+* Guidance for 2026 includes a SS NOI range of -1.5% to +2.0%, with the known vacate of the FDIC at the Empire State building adversely impacting NOI by 270bps
+* The space has already been backfilled by LinkedIn, however there will be down time  
+* As with most REITs, ESRT noted no impact on leasing from AI to date, with AI actually being a net positive and a source of incremental tenant demand 
+* Also similar to other NYC REITs, ESRT noted no change in the tenor of leasing discussions in the city related to the new mayor, as demand has remained high 
+ESRT operates in an interesting niche, as its portfolio generally consists of upgraded, well located and amenitized product, however not to the level of trophy quality. It effectively operates at a slightly lower price point than most of its Manhattan peers, and is very competitive within this segment. ESRT sees market conditions in NYC as the strongest since 2019, with demand coming for a diverse group of industries. AI has not had any impact to date on leasing, and has actually been a source of incremental tenant demand to date.  
+ 
+CMBS NOTES: 
+MFP Portfolio (JPMCC 2019-MFP): Judge Allows Wells Fargo's Lawsuit Against JPMorgan Over $481M Loan To Proceed (Bisnow): https://www.bisnow.com/national/news/capital-markets/jpmorgan-wells-fargo-chetrit-lawsuit-133916 there was an update to the ongoing law suit for this SASB loan: 
+* A Manhattan judge has ruled that Wells Fargo's breach suit against JP Morgan over the MFP Portfolio loan to the Chetrit Group can proceed
+* JPM was attempting to have the case dismissed
+* At the heart of the case was the allegation that JPM knew via the sponsor that the seller "drastically overstated" the portfolios NOI and TTM financials ahead of the sale, however JPM proceeded with the deal anyway
+* There is likely still a long way to go in the case, with Wells ultimately looking to force JPM to repurchase the loan
+* These cases historically haven't had a high success rate, however it will obviously depend on the specifics of this case
+* Per the latest Property Report, all but six of the original 43 properties have been released  
+The lawsuit likely has a long way to go before resolution, however the judge has allowed the case to proceed. 
+
+Workspace Property Trust Portfolio (JPMCC 2018-WPT): S&P Lowers 11 JPMCC 2018-WPT Ratings (Bloomberg): https://blinks.bloomberg.com/news/stories/TCQ5NW1M4Y68 we hadn't refreshed on this deal in a few months, with this downgrade providing a few updates: 
+* S&P downgraded 11 classes tied to the A through D classes for both FX and FL, as well as three IO classes 
+* The downgrades were driven by further deterioration in performance as of the 9/30/2025 financials, as well as growing servicer advancing, which reached $60.5mm
+* S&P reduced its net recovery value by 15% since its most recent reviews in 4/2025 and 9/2025 
+* As a reminder, this loan was secured by 147 office, flex and retail properties focused in five markets at issuance: suburban Philadelphia, South Florida, Tampa, Minneapolis, and Phoenix - only four properties have been released to date 
+* These markets have been a mixed bag, with most remaining relatively soft  
+* Occupancy has steadily declined over time, dropping to 88%, 86%, 84%, 81%, 79% and 72% from 2019 to 2024, and now only 67% as of 9/30/2025  
+* The loan initially defaulted back in 10/2023, however was given a modification and RTM, only to redefault in 11/2024
+* There haven't been much in the way of updates, other than a receiver having been installed  
+This was always an interesting loan as the sponsor's thesis was that suburban office markets were set to outperform. Unfortunately, most of its target markets have remained soft post COVID, with occupancy across this portfolio continuing to steadily erode. Given the prolonged workout, advances and expenses continue to build. That, along with occupancy levels that have yet to bottom, led to the recent downgrades. 
+
+188 Spear Street (BBCMS 2019-C4, WFCM 2019-C51 and C52): Amazon is exiting one S.F. tower. Three blocks away, tech firms are rushing into another (San Francisco Chronicle): https://blinks.bloomberg.com/news/stories/TCQOZSBQ99TS this news impacts a securitized property: 
+* Amazon, the top tenant at this 218,669-sf, 12-story class A office tower in the San Francisco CBD, has put its space up for direct lease
+* The tenant, which accounts for 59.0% of UW base rents, has a lease running to 1/1/2027
+* The second largest tenant, New Relic (73,392-sf; 36.2% of UW base rents; lxd 7/1/2027), has already been looking to sublease its entire space
+* There are cash sweep triggers tied to the major tenants and to debt yields, as well as a rollover reserve that triggers one year before the lease expiration date, so there should at least be some reserves building through lease expiration.
+While leasing activity remains healthy in San Francisco, the vacancy rate remains elevated, with every building needing to be assessed on its specific attributes. 
+
+Bayshore Mall (CSAIL 2015-C1 and C2): 'Sign of the times': Once thriving California mall hits the market (SFGATE): https://www.sfgate.com/bayarea/article/ca-bayshore-mall-sale-22187900.php the Bayshore Mall, which also saw the release of an updated appraisal, is expected to go to a trustee sale this month: 
+* The Bayshore Mall loan re-defaulted back in 11/08/2024, after having been modified and RTM in 8/2022 
+* This would have been considered more of a B- mall at securitization, with inline sales at $337/sf 
+* The mall was anchored by Sears (vacated), Wal-Mart and Kohl's (non-collateral) at issuance
+* The March remit cycle saw the release of an updated appraisal dated 1/8/2026, valuing the collateral at $12.0mm ($23.26/sf)
+* That compares to $14.5mm for the 12/27/2024 appraisal, and $69.0mm at issuance  
+* The property is being managed by the Spinoso Real Estate Group
+* The mall is reportedly scheduled for a trustee sale in mid-April
+* It is unclear whether bid levels will be suitable to creditors given the nearly $39.0mm in outstanding debt   
+* The story notes that the closing of the direct mall entrance from the Wal-Mart store, and the loss of the DMV were likely the final straws for the mall, as they've heavily impacted foot traffic and led to a sharp drop in sales  
+* While the Comparative Financial Statement for March had occupancy at 0%, this looks to be an error as servicer notes put occupancy at 54% at YE 2025
+We track mall sales / updated valuations given the number of class B and C malls still found in various conduit deals, with this updated appraisal showing a 66.3% decline from issuance at only $23.26/sf. The trustee sale is scheduled for April 17th, so we may see if there is any external interest in the property.  
+

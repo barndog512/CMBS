@@ -1,0 +1,180 @@
+We hope everyone had a great weekend and that your brackets are still intact. Bid list activity in CMBS picked up despite the ongoing volatility, ending the week at just over $1bn. CMBS spreads were biased slightly wider, however have generally held in better than corporates/most competing structured products. The new issue market saw three deals price - one CRE CLO and two SASB deals - with a few others being marketed. The deals fared relatively well, with most classes pricing in line with initial talk. The new issue market is expected to remain active, with several deals marketing and seven 15-Gs visible. 
+
+We start off this week as usual with office, with a report that summarizes some of the activity we've been noting in the Park Avenue submarket. We also look at a story on the growth in A.I. related leasing in NYC. We review an article discussing two challenged Downtown submarkets in major cities. Finally, we provide a sales comparable for a Bellevue office property which appears to have been sold for land value. In the REIT space, we get an update on the life science space via Alexandria Real Estate, and given the K shaped recovery and outsized pressure on the lower income cohort, we look at Choice Hotels given its more economy and mid-scale focus. In CMBS, after reviewing Alexandria, we go over the recent transfer and pending modification on a life science portfolio in CMBS. Next, we look at a Philadelphia SASB loan where there are now some questions over whether a previously reported sales price is correct. We next look at an updated appraisal on a distressed office tower in Dallas. We then look at some tenant movement in Downtown Manhattan that impacts several properties. Finally, we look at some positive leasing news for a trophy office property in Manhattan.
+
+Joel 
+
+Brownstone - Weekly Recap of CMBS Activity 
+
+Bid list activity picked up, ending the week at just over $1bn. CMBS spreads saw minor widening on the week, however held in better than most competing fixed income products. BIG traded a number of conduit and SASB bonds on the week. We retain axes across most CMBS segments, with particular axes for higher yielding SASB or dented front pays, lower loan count deals, as well as interest only classes (both conduit and agency). We also have axes for newer issue conduit BBB/A classes, both five and 10 years, as well as newer vintage CRE CLO credit.  
+
+
+
+ISSUANCE:                                            
+The new issue market was a little slower on the week, however three deals were able to price - two SASB and one CRE CLO - with a few other deals close to pricing. The three deals that priced did so at levels that were generally in line with initial talk, although a few more senior classes saw minor tightening. There are several deals marketing, and with seven 15-Gs visible, the new issue market is expected to remain active. 
+
+PERTINENT CRE NEWS: 
+
+OFFICE: 
+No Vacancy: Park Avenue fills up as office tenants snag every square foot (Real Deal): 
+https://therealdeal.com/new-york/2026/03/17/no-vacancy-park-avenue-fills-up-as-office-tenants-snag-every-square-foot-2/ this report highlights the ongoing tightening in the Park Avenue submarket, where availabilities are becoming limited: 
+* After multiple recent leases at 280 Park Avenue (PRK 2017-280P), the property now has only 19k sf of available space 
+* Meanwhile, Turner & Townsend signed a 24,000-sf lease at 100 Park Avenue, which has brought the building to 100% occupancy 
+* The same goes for 99 Park Avenue, where a 13,000-sf lease to Southern Land Company took occupancy to full 
+* As we've been hearing, there are effectively no large blocks of availabilities in the submarket given heavy leasing activity from financial and legal firms 
+* Per JLL, vacancies in the Park Avenue submarket for class A and B properties is only 6.9%, near 2018 levels and amongst the lowest in the city 
+* Availabilities for trophy towers are even lower, at only 3.8%  
+* Leasing volumes in the submarket hit 3.8mm sf for 2025, which while down YOY, is more a reflection of the lack of available space 
+* The lack of large blocks of space has caused tenants to become more creative, with Carlyle having to sign leases across multiple buildings after outgrowing its space at One Vanderbilt (SLG 2021-OVA) 
+* The landlord at 245 Park, SL Green, actually had to terminate an existing lease to accommodate the demand for 150,000-sf 
+* The lack of availabilities has led to an increase in leasing activity on Lexington and Sixth Avenues, with Madison Avenue and even Third Avenue seeing some benefits 
+* The market is expected to remain tight with no new supply delivering until at least 2029  
+This article basically summarizes a number of the stories we've been highlighting over the last few months, with availabilities in the Park Avenue continuing to decline, and leasing primarily being constrained by a lack of space.  
+
+AI firms fuel rebound in Manhattan office leases - strongest year in over a decade (New York Post): https://nypost.com/2026/03/19/business/ai-firms-fuel-rebound-in-manhattan-office-leases-strongest-year-in-over-a-decade/ while financial and legal firms have been driving activity in submarkets like Park Avenue, AI firms have been increasingly active in Manhattan: 
+* Per Savills, leasing activity in Manhattan hit 42.9mm sf in 2025, with leading AI firms driving much of the activity
+* OpenAI inked its first Manhattan lease for 90,000-sf in SoHo, at the Puck Building 
+* EliseAI is expanding by 109,000-sf in Midtown at 401 Fifth Avenue, while Harvey AI is growing its presence at One Madison Avenue (SLG 2026-OMA) to over 185,000-sf
+* AI firms Anthropic and Palantir have been actively hiring in NYC, with both reportedly looking to expand their footprints
+* As we've heard from BXP, tech firms have been particularly active in Midtown South, representing a third of large new leases in the submarket 
+* AI firms added around 1mm sf in Manhattan in 2025, up 152% YOY, and they are in the market for another 1.4mm sf 
+* Tech firms, meanwhile, added 2.1mm sf to their NYC offices
+* The number of tech firms in Manhattan increased by 21% from 2020 to 2024 per JLL, although there are concerns that AI related technologies could derail the activity/lead to layoffs 
+* Meanwhile, the demand for office space led to a 2.8% increase in asking rents in 2025 per Savills, to $77.57/sf
+* NYC remains the second-largest tech hub in the U.S., just behind the Bay Area - the city has over 9% of all AI workers in the U.S. and over 25,000 AI related job postings
+* NYC actually has more tech startups than San Francisco, at 8,750       
+While we tend to focus on the financial and legal sectors in terms of leasing activity in Manhattan, the technology and AI sectors remain active. 
+
+Different cities, same story: Office tenants exit central business district for Century City and Uptown Dallas (Costar): https://www.costar.com/article/1498739340/different-cities-same-story-office-tenants-exit-central-business-district-for-century-city-and-uptown-dallas this was an interesting report, touching on trends in two office markets with CMBS exposure: 
+* While every major city has its unique attributes/conditions, two downtown submarkets are facing similar trends - Dallas and Los Angeles 
+* Both downtown submarkets have seen vacancies remain elevated as tenants opt for more attractive submarkets - in this case Uptown in Dallas and Century City in Los Angeles
+* Downtown Los Angeles (DTLA) has struggled with decreasing foot traffic, amid growing concerns over homelessness and crime/safety
+* Tenants have increasingly been attracted to Century City, which was the premiere location for office space even before the pandemic, with newer buildings and well maintained streets
+* Despite increased activity in DTLA in 2025, net absorption remained negative at -122,236-sf  
+* Conversely, Century City saw positive absorption of 161,250-sf over the same period 
+* In 2024, DTLA saw -2.7mm sf of absorption, while Century City saw only -216,000-sf - the vacancy rates sit at 22.1% and 16.0%, respectively
+* Even its significantly lower rates - averaging $37/sf - have not been enough to retain tenants 
+* Tenants that have left downtown for Century City include Savills, Skadden Arps, and AEW Capital Management 
+* Dallas faces similar dynamics, with downtown Dallas seeing vacancies around 500bps higher than Uptown Dallas (27% versus 22%), despite the submarkets being separated by only a two minute walk  
+* Note that Uptown vacancies are due in part to some supply side pressures due to recent trophy completions 
+* Numerous tenants are leaving downtown for the newer buildings/superior walkability of Uptown, including Bank of America, Deloitte and Invesco 
+* Some downtown tenants are also leaving in favor of the suburbs, including AT&T's recent announcement of plans to relocate its HQ to Plano, TX - that is projected to push Downtown vacancies from 28% to around 33%
+* The difference in asking rents between Downtown and Uptown has increased to $27/sf, which is up 72% from the four year average pre-COVID
+There is also a good chart showing the occupancy shifts in both markets. There is CMBS exposure in both submarkets in each city. 
+
+Alliance Residential buys Bellevue office building for $30.4 million (Puget Sound Business Journal): https://www.bizjournals.com/seattle/news/2026/03/16/alliance-residential-broadstone-200-apartments.html?cx_testId=40&cx_testVariant=cx_42&cx_artPos=2#cxrecs_s we highlight this as some price discovery in the Bellevue submarket, where there is some CMBS exposure: 
+* Alliance Residential, a national developer, acquired 200 112th Avenue NE in downtown Bellevue on 3/12/26 for $30.4mm
+* The developer plans to demolish the existing office towers with an aggregate 50,531-sf, and construct two towers which would contain 304 market-rate apartments across 407,000-sf
+* The properties sit on the eastern edge of downtown Bellevue, and are less than a 10-minute walk from a light rail station 
+* The price equates to $602/sf, however it was effectively sold for land value, with external sources reporting the site contains 1.56 acres 
+* The property last sold for $16.75mm as of 11/8/2007 
+We wanted to highlight this a sales comparable in Bellevue, with the property expected to be demolished to make way for a new multifamily development.      
+
+REIT REPORT: 
+This week we look at the latest on the life science sector via Alexandria Real Estate, and take a look at the more economy and mid-scale focused Choice Hotels: 
+
+Alexandria Real Estate Equities (ticker: ARE): Alexandria is an S&P 500 urban office REIT, focusing on the life science real estate niche. The REIT develop, operates, and owns class A life science properties primarily clustered in key innovation markets like Boston, San Francisco, and NYC. It specializes in lab and office space leased to biotech, pharma, and technology tenants. As such, it offers a great read on the health of the life science space: 
+* Alexandria noted that 2025 represented the fifth year of a life science bear market 
+* The REIT had initially been positive on the potential of changes at the NIH and FDA, however numerous key departures at the agencies and some controversial changes have tempered that enthusiasm 
+* ARE leased 1.2mm sf of GLA in Q4, which was up 14% over the same prior year period and 10% above the quarterly average over the prior two years 
+* Occupancy ended 2025 at 90.9%, which was up 30bps sequentially - however, ARE reiterated its YE 2026 occupancy range of 87.7% to 89.3% (meaning it is heading lower)
+* Occupancy will be impacted early in 2026 by 1.2mm sf of lease expirations, but should improve over the year as prospects have been identified for around 40% of the space
+* Same property NOI was off 6% in Q4 and 3.5% for the year (-1.7% and +0.9% on a cash basis), with the mid-point for 2026 guidance at -8.5%, evidencing the ongoing pressure on the sector
+* In addition to increasing dispositions, ARE is pivoting on several properties - opting to pursue office uses instead of life science 
+* The REIT took $1.45 billion in impairments in Q4, and while a good amount of that was on land, some were on properties in the South San Francisco and South of Market submarkets
+* Venture capital firms continue to be very conservative in deploying capital 
+* With a lack of IPOs, LPs have been forced to stay in investments longer and haven't had capital to reinvest into other opportunities 
+* While tours have been increasing, decision making continues to take longer as companies remain cautious around taking on new space or expanding
+* While the XBI index (a biotech ETF) has outperformed over the past year, the majority of these companies are commercial or near commercial companies, which don't tend to drive lab space needs 
+* There's been very little leasing for public biotech, which had been a mainstay of the industry
+* In terms of its dispositions, they've primarily focused on non-core assets, with cap rates ranging from mid-6% to mid-9%
+* The variance is largely due to the markets and the weighted average remaining lease term (WALT) - the lower the WALT, the higher the cap rate
+* ARE is considering selling a few core properties which would provide price discovery for higher quality properties, with the REIT believing top tier assets should trade at a five handle cap rate
+* Smaller spaces (under 50,000-sf) are seeing the most demand today, with the dearth of biotech/public biotech type companies weighing on the 50,000-sf to 150,000-sf segment 
+* ARE noted the Greater Boston area did see an 11% increase in tenants in the market - the first increase in several quarters 
+* ARE believes the FDA commissioner's focus on compressing the 10 to 12 year, billion dollar cycle of bringing a compound from discovery to the market is positive - however, the agency's been hurt by defections, DOGE firings, and resignations
+* The NIH decision to limit indirect costs to 15% caused a big decline in demand and immediate decision making by a lot of medical institutions, however there was a court decision that overruled that, so we could see some movement there 
+* Tenant improvements haven't changed, although they remain elevated for anything that is shell - ARE has been doing some pre-builts
+* While TIs are stable, there continues to be pressure on free rent periods, for which it has been forced to meet the market to win deals
+* ARE prefers longer free rent periods than reducing taking rents, as that is where you start to destruct value
+* As long as availabilities remain in the mid-20s to low-30s in the major life science markets, free rent will remain pressured
+* ARE is positive on the longer term outlook for the sector given only 10% of diseases have been addressed, however the REIT is a little distressed about the step back on some of the vaccine policies
+* For the Greater Boston area, there is a significant amount of inventory in Somerville and other tertiary areas where it could take four to five years to resolve 
+* Resolution in these submarkets that really didn't need to be life science markets will primarily be via change in use 
+* In Cambridge, Watertown, and Seaport, where it is more focused, it could take two to three years and maybe even less to recover - these are functional lab markets that are dealing with oversupply 
+* They expect a good number of owners to capitulate and go with a different use for their properties (ie away from life science), which would be positive/could reduce the recovery timeline 
+Fundamentals in the life science sector clearly remain pressured as the market faces the fifth consecutive year in a bear market. While there was an increase in leasing activity, Alexandria expects both occupancy and NOI to decline further in 2026. It remains focused on dispositions of non-productive properties, as well as leasing. Given the softness in the market, it has been forced to offer higher concessions in terms of free rents, however it has been trying to hold the line on rents. It remains positive on its core submarkets longer term, as these are functional life science markets that need to work through excess supply, as opposed to some suburbs/other markets that really never had a reason to pursue life science opportunities.    
+
+Choice Hotels International (NYSE: CHH): Choice Hotels is one of the world's largest franchisors, with over 7,400 hotels across 22 diverse brands ranging from economy to upscale. Some of its flags include Comfort Inn, Quality Inn, Cambria Hotels, and Radisson Americas. We wanted to get its read on the lodging sector given many of its brands are focused more on the economy and mid-scale segments.  
+* Choice saw Q4 RevPAR in the U.S. fall 7.6%, with FY RevPAR off 3%
+* The U.S. was impacted by a 540-bp hurricane benefit for the PY Q4, with RevPAR excluding that impact down 2.2% YOY (which was modest sequential improvement)  
+* Q4 was also adversely impacted by the government shutdown as well as continued softness in international inbound travel, however it still achieved occupancy share index gains versus its competitors on a full year basis 
+* Domestic RevPAR compares to +3.2% and +2.5% internationally for Q4 and FY, respectively 
+* Overall, global RevPAR was -4.6% and -1.2%, respectively 
+* CHH is expecting several more favorable tail winds in 2026, including tax refunds/stimulus, the weaker dollar leading to more domestic travel, and some major events including the Work Cup and the 250th Anniversary
+* To date, tax refunds are running 11% higher YOY, while overall tax relief was up 18% - that has historically provided significant stimulus for travel within their segments  
+* The sector is benefiting from a limited new supply backdrop as well as steady workforce based travel demand tied to infrastructure, manufacturing, and data center investment 
+* Interestingly, CHH had also noted lower gas prices as a potential catalyst (the call was prior to the recent run up), for which it was expecting a pickup in road trips 
+* They continue to see a value bias with their consumers, with a trade down still common 
+* Choice is seeing an increase in conversions to its brands, with its conversion pipeline up 12% YOY 
+* Conversions are positive, as they are 5x faster than new construction 
+* Choice is increasingly constructive on U.S. lodging demand across its segments as the core customer continues to prioritize travel within their overall spending, with a clear focus on affordability 
+* That should position Choice well, as they've long been strategically positioned at the center of value-driven travel
+* Choice is very positive on the extended stay segment, where it saw its 10th consecutive quarter of double-digit system growth 
+* Extended stay, which is 40% of its U.S. pipeline, benefits from longer average stays, higher margins for owners, and greater earnings stability across cycles
+* It's largest under construction pipeline is for the economy and mid-scale extended stay segments, with a focus on strengthening its economy brands 
+* Choice continues to exit underperforming hotels, with hotels exiting its system in 2025 having RevPAR 20% below the company average
+* Franchisee retention in the U.S. remained strong, with renewal activity in 2025 matching prior all-time highs 
+* CHH noted its occupancy index was positive in 2025, and based on prior cycles, occupancy is the first thing to recover
+* Occupancy is typically followed by rate improvement, as once you are able to fill rooms, that provides more pricing power 
+* There has been several years of almost no new construction across the industry in the U.S., with flattish RevPAR and higher interest rates making it much harder to finance new construction projects 
+* New construction represents only around 15% to 20% of new room growth, versus around a third of additions historically 
+* Choice sees a lot of its growth being international again in 2026, as it expects the general economic environment to be stronger in international markets 
+Choice reported a decline in RevPAR for Q4 and FY 2025, although it does see some potential positives for 2026. Those include higher tax refunds, the weaker dollar likely keeping more people vacationing domestically, and a strong slate of major events that should be traffic drivers. The sector is also benefiting from several years of very limited new supply additions. It is still forecasting RevPAR growth in the U.S. of -2% to +1% for 2026, but expects conditions to be modestly better. It is focused on growing its extended stay brand, where it sees the fundamentals as strong. 
+
+CMBS NOTES: 
+BMR Pool (LIFE 2021-BMR): this loan was recently transferred to the special servicer in advance of its maturity date, although it sounds like a modification is being finalized: 
+* The BMR Pool loan was transferred to the special servicer per the March remittance report (transferred on 2/12/26)
+* The loan was scheduled to mature in 4/2026 as it had exhausted its extension options  
+* The pool balance has paid down significantly since issuance due to releases, with the latest balance at just under $600mm (versus the issuance balance of $2.010bn)  
+* There are only six of the original 17 properties remaining, with the properties in Cambridge, Redwood City, and San Diego  
+* The DY based on the latest NOI for the TTM ended 9/30/25 was only 5.8%, with occupancy at 58% 
+* As noted, the life science sector remains under pressure following overbuilding coming out of the pandemic
+* Per the commentary, the special and borrower have agreed to the framework of a multi-year extension, with the special granting a 30-day extension to provide time to finalize the terms  
+* We have not seen any of the prospective mod terms, with the hope being it involves some type of principal paydown and/or equity infusion 
+
+1500 Market Street (JPMCC 2020-MKST): the collateral property had been reported by a news outlet to be under a sales agreement at a specified price, however a recent trustee comment is refuting that:
+* We'd highlighted the story recently per Bisnow that the 1500 Market Street property was being sold at a price of $94mm (Center City's Largest Office Space Slated for Resi Conversion: The Philadelphia Deal Sheet: https://www.bisnow.com/philadelphia/news/deal-sheet/centre-square-resi-conversion-kennett-square-9th-street-development-133510) 
+* That was the only source we could find listing a sales price for the troubled properties, with the Philadelphia Business Journal previously reporting only that the sales price was for less than $100mm  
+* Today, the trustee responded to a request for confirmation on the sales price that's been widely quoted
+* The trustee noted that the property isn't under an agreement of sale for $94.0mm, and it wasn't clear where that report came from 
+* The trustee was not willing to release the contract price, as the sale is reportedly still pending 
+This is an interesting development, as the reported sale price had been widely circulated, however it apparently is not correct. The contact price has not been released to date, as per the trustee the sale is still pending. We'll continue to follow this and provide confirmation once the final sales price is released. 
+
+Harwood Center (COMM 2014-UBS5 and CR20): we had the previously story on the weakness in the Downtown submarket of Dallas, with this updated appraisal evidencing the impact it can have on valuations:
+* The Harwood Center loan had transferred to special servicing all the way back on 5/20/2020 due to imminent monetary default 
+* The trust took title to the 36-story, 723,963-sf, class A office tower in 11/2021
+* The property was impacted by the loss of multiple tenants, with the latest reported occupancy at only 46% 
+* The property had been marketed for sale, however the special opted not to proceed with a trade, implying the prices weren't adequate 
+* The latest commentary noted the special was considering building out some spec suites as it attempts to stabilize performance - an approach we've been hearing more frequently 
+* This remit cycle, an updated appraisal was released valuing the property at $27.9mm ($38.53/sf)  
+* This was down 45.5% from the $51.2mm valuation as of 11/13/2024, and is off 77.5% from the value at issuance 
+We'd previously touched on the softness in Downtown Dallas, where there just isn't any depth in tenant demand. That is evident in this Downtown tower which continues to struggle with persistent vacancies.  
+
+39 Broadway (BMARK 2022-B36 and BBCMS 2022-C17): Fedcap relocates nonprofit headquarters to Financial District (New York Business Journal): https://www.bizjournals.com/newyork/news/2026/03/19/fedcap-hq-39-broadway-fidi-nyc-offices-cammebys.html?cx_testId=40&cx_testVariant=cx_35&cx_artPos=1#cxrecs_
+* NOI at this 450,583-sf office tower in the Financial District is off about 17% from UW, due to a nearly 9% decline in occupancy from issuance levels 
+* Nonprofit Febcap is reportedly moving its HQ to 39 Broadway, where it has signed a six year lease for 39,000-sf 
+* The tenant is reportedly consolidating its space at two other securitized properties into the building - its space in 65 Broadway (CF 2019-CF1 and MSC 2019-H6) and 42 Broadway (BMARK 2020-B21 and B22, and GSMS 2020-GSA2) 
+* 65 Broadway was recently RTM after having been modified/extended, with its value having been more than halved since issuance per the latest appraisal  
+While not that significant of a lease, this is still positive for 39 Broadway where occupancy had fallen to 70%. This lease unfortunately is another case of musical chairs between buildings, as opposed to a new entrant into the submarket. 
+
+One Bryant Park (OBP 2019-OBP): Bank of America expands at namesake Midtown tower (Real Deal): https://therealdeal.com/new-york/2026/03/16/bank-of-america-expands-at-namesake-tower-in-midtown/ this wasn't a deal with a lot of concerns, however it received some positive news: 
+* Bank of America is reportedly taking an additional 600,000-sf at One Bryant Park (also known as Bank of America Tower)
+* One Bryant Park is a 51-story, class A, LEED platinum office property on the West Side of Sixth Avenue, between 42nd and 43rd in Midtown 
+* The 2.356mm sf tower, which was built in 2008, contains 2.118mm sf of office with the remainder consisting of restaurant, retail, storage and theater space 
+* Bank of America (A1/A-/AA-) is the anchor tenant with 1.836mm sf, under a LTL to 9/30/28
+* The tenant will reportedly be taking the remainder of the space, and lease the full amount under a 20-year NNN lease
+* The tenant doesn't plan on kicking out the other tenants, and may offer them the opportunity to sublease their existing space 
+* Much like JP Morgan is doing at Park Avenue, Bank of America seems to be establishing a campus, as it also leases space at nearby Two Bryant Park and the Grace Building
+* NOI had been trending lower, however the DY was still good at 12.4%  
+As noted, this wasn't a deal on our radar for significant concerns, despite the fact NOI has been trending lower. That being said, the Bank of America lease was scheduled to roll in 9/2028, so this is good news as it locks in an IG rated tenant for 20-year under a NNN lease.
